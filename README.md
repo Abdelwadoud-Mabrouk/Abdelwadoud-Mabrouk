@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abdelwadoud-Mabrouk
 - 👀 I’m interested in devoloppement.
-- 🌱 I’m currently learning python & C#.
 - 💞️ I’m looking to collaborate on python & C# projects.
 - 📫 How to reach me via E-mail: mabroukabdelwadoud@gmail.com
 
